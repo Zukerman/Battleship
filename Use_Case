@@ -1,1 +1,8 @@
 Это первый кейс
+
+В исходном коде сайта есть урлы
+http://javarush.ru/api/api1/JarCommonService
+http://javarush.ru/api/
+При обращении к http://javarush.ru/api/ получаем интересный адрес, но далее доступа нет:
+
+http://api1.controller.diana.javarush.co
